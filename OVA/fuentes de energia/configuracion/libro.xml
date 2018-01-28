@@ -1,0 +1,232 @@
+<fundacion alto="550" ancho="775" scorm="0">
+  <pagina locked="0" id="1">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/Fuentes De Energia/[_2_]fe_opt.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento imagen="galeria/imagenes/Fuentes De Energia/[_2_]flecha.jpg" salto="2" alto_px="651" ancho_px="650" alto="11.62" ancho="17.85" rotation="0" posy="415" posx="12" tipo="hipervinculo" src="5"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="43" ancho_px="182" alto="100" ancho="100" rotation="0" posy="477" posx="19" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="12" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">COMENZAR<FONT FACE="Verdana"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="1b"/>
+  <pagina locked="0" id="2">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/Fuentes De Energia/[_2_]fefondo.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="124.8" ancho_px="363" alto="100" ancho="100" rotation="0" posy="19" posx="214" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="pf_tempesta_seven" SIZE="24" COLOR="#0000FF" LETTERSPACING="0" KERNING="1"><B>FUENTES DE ENERGIA</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="169" ancho_px="674" alto="100" ancho="100" rotation="0" posy="82" posx="51" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">Las Fuentes de energía son los recursos existentes en la naturaleza de los que la humanidad puede obtener energía utilizable en sus actividades.<FONT SIZE="22"></FONT></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">Algunos ejemplos de fuentes de energia son:</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/Fuentes De Energia/[_2_]viento.jpg" alto_px="297" ancho_px="450" alto="42.09" ancho="36.23" rotation="0" posy="224" posx="521" tipo="imagen" src="1"/>
+    <elemento imagen="galeria/imagenes/Fuentes De Energia/[_2_]petroleo.jpg" alto_px="298" ancho_px="352" alto="41.48" ancho="48.58" rotation="0" posy="254" posx="269" tipo="imagen" src="1"/>
+    <elemento imagen="galeria/imagenes/Fuentes De Energia/[_2_]nuclear.jpg" alto_px="520" ancho_px="750" alto="26.16" ancho="26" rotation="0" posy="244" posx="3" tipo="imagen" src="1"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="43" ancho_px="226" alto="100" ancho="100" rotation="0" posy="360" posx="63" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="12" COLOR="#000000" LETTERSPACING="0" KERNING="1">NUCLEAR<FONT FACE="Verdana" COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="16.81" ancho_px="258" alto="100" ancho="100" rotation="0" posy="389" posx="269" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="12" COLOR="#000000" LETTERSPACING="0" KERNING="1">COMBUSTIBLES FOSILES<FONT FACE="Verdana" COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="28.61" ancho_px="191" alto="100" ancho="100" rotation="0" posy="356" posx="577" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="12" COLOR="#000000" LETTERSPACING="0" KERNING="1">VIENTO<FONT FACE="Verdana" COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/Fuentes De Energia/[_2_]sol.png" salto="3" alto_px="669" ancho_px="668" alto="13.64" ancho="16.17" rotation="0" posy="454" posx="3" tipo="hipervinculo" src="5"/>
+    <elemento forma="galeria/formas/f19.swf" rellenar="false" colorear="0" alto_px="64" ancho_px="100" alto="107.82" ancho="216" rotation="0" posy="448" posx="99" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="63" ancho_px="198" alto="100" ancho="100" rotation="0" posy="456" posx="123" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="12" COLOR="#000000" LETTERSPACING="0" KERNING="0">HAZ CLICK<FONT FACE="Arial" SIZE="10" COLOR="#0B333C"> </FONT>AQUI<FONT FACE="Arial" SIZE="10" COLOR="#0B333C"> <FONT FACE="BlackMetalSans" SIZE="12" COLOR="#000000" KERNING="1">PARA CONTINUAR</FONT></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="2b"/>
+  <pagina locked="0" id="3">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/Fuentes De Energia/[_2_]fefondo.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="85" ancho_px="516" alto="100" ancho="100" rotation="0" posy="37" posx="130" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="pf_tempesta_seven" SIZE="24" COLOR="#0000FF" LETTERSPACING="0" KERNING="1"><B>TIPOS DE FUENTES DE ENERGIA </B><FONT FACE="BlackMetalSans" COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="73.2" ancho_px="680" alto="100" ancho="100" rotation="0" posy="126" posx="57" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="20" COLOR="#000000" LETTERSPACING="0" KERNING="1">LAS FUENTES DE ENERGIA PUEDEN SER CLASIFICADAS EN DOS TIPOS:</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="20" COLOR="#000000" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="20" COLOR="#000000" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="45.6" ancho_px="254" alto="100" ancho="100" rotation="0" posy="470" posx="60" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="12" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">FUENTES NATURALES<FONT FACE="Verdana"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="39.21" ancho_px="206" alto="100" ancho="100" rotation="0" posy="466" posx="526" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="12" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">FUENTES ARTIFICIALES</FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/Fuentes De Energia/[_2_]sol.png" alto_px="669" ancho_px="668" alto="17.52" ancho="19.17" rotation="0" posy="223" posx="30" tipo="imagen" src="1"/>
+    <elemento imagen="galeria/imagenes/Fuentes De Energia/[_2_]Volcan.png" alto_px="828" ancho_px="1030" alto="19.38" ancho="15.73" rotation="0" posy="185" posx="178" tipo="imagen" src="1"/>
+    <elemento imagen="galeria/imagenes/Fuentes De Energia/[_2_]viento.jpg" alto_px="297" ancho_px="450" alto="31.32" ancho="34.67" rotation="0" posy="355" posx="74" tipo="imagen" src="1"/>
+    <elemento imagen="galeria/imagenes/Fuentes De Energia/[_2_]nuclear.jpg" alto_px="520" ancho_px="750" alto="29.54" ancho="23.74" rotation="0" posy="173" posx="591" tipo="imagen" src="1"/>
+    <elemento imagen="galeria/imagenes/Fuentes De Energia/[_2_]presa.jpg" alto_px="520" ancho_px="750" alto="20.93" ancho="18.27" rotation="0" posy="212" posx="455" tipo="imagen" src="1"/>
+    <elemento imagen="galeria/imagenes/Fuentes De Energia/[_2_]petroleo.jpg" alto_px="298" ancho_px="352" alto="46.05" ancho="40.91" rotation="0" posy="322" posx="545" tipo="imagen" src="1"/>
+    <elemento imagen="galeria/imagenes/Fuentes De Energia/[_2_]flecha.jpg" salto="4" alto_px="651" ancho_px="650" alto="14.11" ancho="15.54" rotation="0" posy="431" posx="335" tipo="hipervinculo" src="5"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="43" ancho_px="242" alto="100" ancho="100" rotation="0" posy="496" posx="345" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="12" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">CONTINUAR<FONT FACE="Verdana"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="3b"/>
+  <pagina locked="0" id="4">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/Fuentes De Energia/[_2_]fefondo.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento forma="galeria/formas/f19.swf" rellenar="false" colorear="0" alto_px="64" ancho_px="100" alto="115.32" ancho="231" rotation="0" posy="449" posx="100" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="214" ancho_px="710" alto="100" ancho="100" rotation="0" posy="144" posx="46" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="20" COLOR="#000033" LETTERSPACING="0" KERNING="0">Las energías naturales son aquellas que están disponibles en la naturaleza sin la intervención del hombre. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="20" COLOR="#000033" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="20" COLOR="#000033" LETTERSPACING="0" KERNING="0">También se llaman energía primaria. Estos recursos no sufren ninguna modificación química o física para su uso energético<FONT SIZE="24">.</FONT></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="10" COLOR="#0B333C" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="101.61" ancho_px="501" alto="100" ancho="100" rotation="0" posy="62" posx="144" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="pf_tempesta_seven" SIZE="24" COLOR="#0000FF" LETTERSPACING="0" KERNING="1"><B>FUENTE DE ENERGIA NATURAL</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/Fuentes De Energia/[_2_]sol.png" salto="5" alto_px="669" ancho_px="668" alto="13.31" ancho="14.53" rotation="0" posy="459" posx="-1" tipo="hipervinculo" src="5"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="70" ancho_px="242" alto="100" ancho="100" rotation="0" posy="462" posx="130" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="12" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">HAZ CLICK AQUI PARA CONTINUAR</FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/Fuentes De Energia/[_2_]viento.jpg" alto_px="297" ancho_px="450" alto="31.32" ancho="25.34" rotation="0" posy="14" posx="640" tipo="imagen" src="1"/>
+    <elemento imagen="galeria/imagenes/Fuentes De Energia/[_2_]Volcan.png" alto_px="828" ancho_px="1030" alto="12.6" ancho="11.07" rotation="-0.42" posy="13" posx="21" tipo="imagen" src="1"/>
+  </pagina>
+  <pagina locked="0" id="4b"/>
+  <pagina locked="0" id="5">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/Fuentes De Energia/[_2_]fefondo.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="132.2" ancho_px="537" alto="100" ancho="100" rotation="0" posy="60" posx="134" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="pf_tempesta_seven" SIZE="24" COLOR="#0000FF" LETTERSPACING="0" KERNING="1"><B>FUENTE DE ENERGIA ARTIFICIAL</B><FONT FACE="BlackMetalSans"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/Fuentes De Energia/[_2_]nuclear.jpg" alto_px="520" ancho_px="750" alto="20.16" ancho="16.67" rotation="0" posy="19" posx="32" tipo="imagen" src="1"/>
+    <elemento imagen="galeria/imagenes/Fuentes De Energia/[_2_]eolica.jpg" alto_px="566" ancho_px="816" alto="17.74" ancho="14.59" rotation="0" posy="25" posx="631" tipo="imagen" src="1"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="204" ancho_px="655" alto="100" ancho="100" rotation="0" posy="148" posx="68" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">Las energías artificiales son los productos energéticos obtenidos a través de un proceso de transformación química o física. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="20" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">Se denominan también secundarios porque se obtienen como producto secundario de una fuente energética natural.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="12" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/Fuentes De Energia/[_2_]sol.png" salto="6" alto_px="669" ancho_px="668" alto="13.67" ancho="15.12" rotation="0" posy="454" posx="4" tipo="hipervinculo" src="5"/>
+    <elemento forma="galeria/formas/f19.swf" rellenar="false" colorear="0" alto_px="64" ancho_px="100" alto="120.32" ancho="227" rotation="0" posy="441" posx="90" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="55.81" ancho_px="210" alto="100" ancho="100" rotation="0" posy="451" posx="115" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="12" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">HAZ CLICK AQUI PARA CONTINUAR</FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="5b"/>
+  <pagina locked="0" id="6">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/Fuentes De Energia/[_2_]fefondo.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="130.61" ancho_px="573" alto="100" ancho="100" rotation="0" posy="57" posx="105" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="pf_tempesta_seven" SIZE="24" COLOR="#0000FF" LETTERSPACING="0" KERNING="1"><B>LISTADO DE FUENTES DE ENERGIA</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="270" ancho_px="250" alto="100" ancho="100" rotation="0" posy="154" posx="106" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="pf_tempesta_seven" SIZE="18" COLOR="#0000FF" LETTERSPACING="0" KERNING="1"><B>NATURALES</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><LI><FONT FACE="Arial" SIZE="10" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></LI></TEXTFORMAT><TEXTFORMAT LEADING="2"><LI><FONT FACE="BlackMetalSans" SIZE="18" COLOR="#000000" LETTERSPACING="0" KERNING="1">Viento<FONT FACE="Arial" KERNING="0"></FONT></FONT></LI></TEXTFORMAT><TEXTFORMAT LEADING="2"><LI><FONT FACE="BlackMetalSans" SIZE="18" COLOR="#000000" LETTERSPACING="0" KERNING="1">Mar<FONT FACE="Arial" KERNING="0"></FONT></FONT></LI></TEXTFORMAT><TEXTFORMAT LEADING="2"><LI><FONT FACE="BlackMetalSans" SIZE="18" COLOR="#000000" LETTERSPACING="0" KERNING="1">Rio <FONT FACE="Arial" KERNING="0"></FONT></FONT></LI></TEXTFORMAT><TEXTFORMAT LEADING="2"><LI><FONT FACE="BlackMetalSans" SIZE="18" COLOR="#000000" LETTERSPACING="0" KERNING="1">Rayo<FONT FACE="Arial" KERNING="0"></FONT></FONT></LI></TEXTFORMAT><TEXTFORMAT LEADING="2"><LI><FONT FACE="BlackMetalSans" SIZE="18" COLOR="#000000" LETTERSPACING="0" KERNING="1">Volcan<FONT FACE="Arial" KERNING="0"></FONT></FONT></LI></TEXTFORMAT><TEXTFORMAT LEADING="2"><LI><FONT FACE="BlackMetalSans" SIZE="18" COLOR="#000000" LETTERSPACING="0" KERNING="1">Heiser<FONT FACE="Arial" KERNING="0"></FONT></FONT></LI></TEXTFORMAT><TEXTFORMAT LEADING="2"><LI><FONT FACE="BlackMetalSans" SIZE="18" COLOR="#000000" LETTERSPACING="0" KERNING="1">Sol<FONT FACE="Arial" SIZE="10" COLOR="#0B333C" KERNING="0"></FONT></FONT></LI></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="281" ancho_px="250" alto="100" ancho="100" rotation="0" posy="153" posx="451" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="pf_tempesta_seven" SIZE="18" COLOR="#0000FF" LETTERSPACING="0" KERNING="1"><B>ARTIFICIALES</B><FONT FACE="Verdana" SIZE="12" COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><LI><FONT FACE="pf_tempesta_seven" SIZE="18" COLOR="#0000FF" LETTERSPACING="0" KERNING="1"></FONT></LI></TEXTFORMAT><TEXTFORMAT LEADING="2"><LI><FONT FACE="BlackMetalSans" SIZE="18" COLOR="#000000" LETTERSPACING="0" KERNING="1">Electrica</FONT></LI></TEXTFORMAT><TEXTFORMAT LEADING="2"><LI><FONT FACE="BlackMetalSans" SIZE="18" COLOR="#000000" LETTERSPACING="0" KERNING="1">Nuclear</FONT></LI></TEXTFORMAT><TEXTFORMAT LEADING="2"><LI><FONT FACE="BlackMetalSans" SIZE="18" COLOR="#000000" LETTERSPACING="0" KERNING="1">Eolica</FONT></LI></TEXTFORMAT><TEXTFORMAT LEADING="2"><LI><FONT FACE="BlackMetalSans" SIZE="18" COLOR="#000000" LETTERSPACING="0" KERNING="1">Hidroelectrica</FONT></LI></TEXTFORMAT><TEXTFORMAT LEADING="2"><LI><FONT FACE="BlackMetalSans" SIZE="18" COLOR="#000000" LETTERSPACING="0" KERNING="1">Hidraulica </FONT></LI></TEXTFORMAT><TEXTFORMAT LEADING="2"><LI><FONT FACE="BlackMetalSans" SIZE="18" COLOR="#000000" LETTERSPACING="0" KERNING="1">Solar<FONT FACE="pf_tempesta_seven" COLOR="#0000FF"></FONT></FONT></LI></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/Fuentes De Energia/[_2_]sol.png" salto="7" alto_px="669" ancho_px="668" alto="14.18" ancho="14.53" rotation="0" posy="454" posx="11" tipo="hipervinculo" src="5"/>
+    <elemento forma="galeria/formas/f19.swf" rellenar="false" colorear="0" alto_px="64" ancho_px="100" alto="120.27" ancho="288" rotation="-0.35" posy="451" posx="102" tipo="forma" src="4"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="66" ancho_px="238" alto="100" ancho="100" rotation="0" posy="460" posx="151" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="12" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">HAZ CLICK AQUI PARA CONTINUAR<FONT FACE="Verdana"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="6b"/>
+  <pagina locked="0" id="7">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/Fuentes De Energia/[_2_]fefondo.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento actividad="galeria/actividades/identificacion.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="-1" posx="-1" tipo="actividad" src="3">
+      <actividad id="21" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto="FUENTES DE ENERGIA"/>
+          <instrucciones name="instrucciones"><![CDATA[IDENTIFICA LAS DIFERENTES FUENTES DE ENERGIA NATURALES Y ARTIFICIALES]]></instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="-1" intentos="-1"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf" respuestas="4"/>
+          <parejas name="numeroParejas" num="12">
+            <pareja>
+              <respuesta name="txtImagen"><![CDATA[galeria/imagenes/Fuentes De Energia/[_2_]sol.png]]></respuesta>
+              <correcta name="ckbRespuesta"><![CDATA[true]]></correcta>
+            </pareja>
+            <pareja>
+              <respuesta name="txtImagen"><![CDATA[galeria/imagenes/Fuentes De Energia/[_2_]nuclear.jpg]]></respuesta>
+              <correcta name="ckbRespuesta"><![CDATA[false]]></correcta>
+            </pareja>
+            <pareja>
+              <respuesta name="txtImagen"><![CDATA[galeria/imagenes/Fuentes De Energia/[_2_]presa.jpg]]></respuesta>
+              <correcta name="ckbRespuesta"><![CDATA[false]]></correcta>
+            </pareja>
+            <pareja>
+              <respuesta name="txtImagen"><![CDATA[galeria/imagenes/Fuentes De Energia/[_2_]petroleo.jpg]]></respuesta>
+              <correcta name="ckbRespuesta"><![CDATA[false]]></correcta>
+            </pareja>
+          </parejas>
+          <pregunta name="preguntaData"><![CDATA[Es una fuente de energia natural o primaria la cual es la principla fuente de energia del planeta tierra ademas de da luz y calor ]]></pregunta>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="Excelente"/>
+          <sndAcierto name="sndAcierto" sonido=""/>
+          <msgFallo name="msgFallo" texto="Vuelve a intentarlo"/>
+          <sndFallo name="sndFallo" sonido=""/>
+        </paso3>
+      </actividad>
+    </elemento>
+  </pagina>
+  <pagina locked="0" id="7b"/>
+  <pagina locked="0" id="8">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/Fuentes De Energia/[_2_]fefondo.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento actividad="galeria/actividades/identificacion.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="-1" posx="-1" tipo="actividad" src="3">
+      <actividad id="21" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto="TIPOS DE ENERGIA "/>
+          <instrucciones name="instrucciones"><![CDATA[SELECCIONA LA IMAGEN/ES QUE RESPONDA LA PREGUNTA PLANTEADA]]></instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="-1" intentos="-1"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf" respuestas="4"/>
+          <parejas name="numeroParejas" num="12">
+            <pareja>
+              <respuesta name="txtImagen"><![CDATA[galeria/imagenes/Fuentes De Energia/[_2_]sol.png]]></respuesta>
+              <correcta name="ckbRespuesta"><![CDATA[true]]></correcta>
+            </pareja>
+            <pareja>
+              <respuesta name="txtImagen"><![CDATA[galeria/imagenes/Fuentes De Energia/[_2_]Volcan.png]]></respuesta>
+              <correcta name="ckbRespuesta"><![CDATA[true]]></correcta>
+            </pareja>
+            <pareja>
+              <respuesta name="txtImagen"><![CDATA[galeria/imagenes/Fuentes De Energia/[_2_]petroleo.jpg]]></respuesta>
+              <correcta name="ckbRespuesta"><![CDATA[false]]></correcta>
+            </pareja>
+            <pareja>
+              <respuesta name="txtImagen"><![CDATA[galeria/imagenes/Fuentes De Energia/[_2_]presa.jpg]]></respuesta>
+              <correcta name="ckbRespuesta"><![CDATA[false]]></correcta>
+            </pareja>
+          </parejas>
+          <pregunta name="preguntaData"><![CDATA[SON TIPOS DE ENERGIA NATURALES]]></pregunta>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="EXCELENTE"/>
+          <sndAcierto name="sndAcierto" sonido=""/>
+          <msgFallo name="msgFallo" texto="INTENTALO NUEVAMENTE"/>
+          <sndFallo name="sndFallo" sonido=""/>
+        </paso3>
+      </actividad>
+    </elemento>
+  </pagina>
+  <pagina locked="0" id="8b"/>
+  <pagina locked="0" id="9">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/Fuentes De Energia/[_2_]fefondo.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento actividad="galeria/actividades/sopa.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="-1" posx="-1" tipo="actividad" src="3">
+      <actividad id="3" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto="SOPA DE LETRAS "/>
+          <instrucciones name="instrucciones"><![CDATA[COMPLETA LA SOPA DE LETRAS CON LAS PALABRAS INDICADAS. ESTAS HACEN REFERENCIA A FUENTES DE ENERGIA NATURALES Y ARTIFICIALES]]></instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="-1" intentos="-1"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf" palabras="9" filas="10" columnas="10"/>
+          <palabra name="palabra" texto="SOL"/>
+          <palabra name="palabra" texto="VIENTO"/>
+          <palabra name="palabra" texto="MAR"/>
+          <palabra name="palabra" texto="ELECTRICA"/>
+          <palabra name="palabra" texto="NUCLEAR"/>
+          <palabra name="palabra" texto="FOSIL"/>
+          <palabra name="palabra" texto="RAYO"/>
+          <palabra name="palabra" texto="EOLICA"/>
+          <palabra name="palabra" texto="HIDRAULICA"/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="EXCELENTE"/>
+          <sndAcierto name="sndAcierto" sonido=""/>
+          <msgFallo name="msgFallo" texto="INTENTALO NUEVAMENTE"/>
+          <sndFallo name="sndFallo" sonido=""/>
+        </paso3>
+      </actividad>
+    </elemento>
+  </pagina>
+  <pagina locked="0" id="9b"/>
+  <pagina locked="0" id="10">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/Fuentes De Energia/[_2_]fefondo.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="105" ancho_px="596" alto="100" ancho="100" rotation="0" posy="20" posx="100" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="pf_tempesta_seven" SIZE="24" COLOR="#0000FF" LETTERSPACING="0" KERNING="1"><B>FUENTES DE ENERGIA EN NUESTRO ENTORNO </B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="101.21" ancho_px="604" alto="100" ancho="100" rotation="0" posy="118" posx="100" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="14" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">PODEMOS ENCONTRAR DIFERENTES FUENTES DE ENERGIA EN NUESTRO ENTORNO COTIDIANO COMO POR EJEMPLO UNA BOMBILLA, ESTA ES UNA FUENTE DE ENERGIA DE LUZ  ARTIFICIAL ALIMENTADA POR LA ENERGIA ELECTRICA.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="14" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="14" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="94.4" ancho_px="579" alto="100" ancho="100" rotation="0" posy="309" posx="101" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BlackMetalSans" SIZE="14" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">OTRA FUENTE DE ENERGIA QUE PODEMOS ENCONTRAR EN NUESTRO ENTORNO ES EL FUEGO PROVENIENTE DE LA COCINA EL CUAL ES ALIMENTADO POR UNA FUENTE DE ENERGIA NATURAL. GAS PROPANO</FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/Fuentes De Energia/[_2_]bombilla.jpg" alto_px="470" ancho_px="600" alto="18.98" ancho="22.17" rotation="0" posy="207" posx="306" tipo="imagen" src="1"/>
+    <elemento imagen="galeria/imagenes/Fuentes De Energia/[_2_]estufa.jpg" alto_px="849" ancho_px="600" alto="14.56" ancho="21.17" rotation="0" posy="393" posx="316" tipo="imagen" src="1"/>
+    <elemento imagen="galeria/imagenes/Fuentes De Energia/[_2_]sol.png" salto="11" alto_px="669" ancho_px="668" alto="12.86" ancho="13.63" rotation="0" posy="462" posx="1" tipo="hipervinculo" src="5"/>
+  </pagina>
+  <pagina locked="0" id="10b"/>
+  <pagina locked="0" id="11">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento actividad="galeria/actividades/preguntas.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="-1" posx="-1" tipo="actividad" src="3">
+      <actividad id="2" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto="FUENTES ENERGIA ENTORNO"/>
+          <instrucciones name="instrucciones"><![CDATA[RESPONDA LAS SIGUIENTES PREGUNTAS SELECCIONANDO LA RESPUESTA QUE CONSIDERE CORRECTA]]></instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="-1" intentos="-1"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf" respuestas="4" texto="ES UNA FUENTE DE ENERGIA DE LUZ Y CALOR ARTIFICIAL SE PUEDE ENCONTRAR EN TU CUARTO Y ES UTILIZADA PARA ILUMINAR EL ENTORNO"/>
+          <respuesta name="respuesta" texto="BOMBILLA" correcta="true"/>
+          <respuesta name="respuesta" texto="SOL" correcta="false"/>
+          <respuesta name="respuesta" texto="VIENTO" correcta="false"/>
+          <respuesta name="respuesta" texto="MAR" correcta="false"/>
+          <respuesta name="respuesta" texto="" correcta=""/>
+          <respuesta name="respuesta" texto="" correcta=""/>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="EXCELENTE"/>
+          <sndAcierto name="sndAcierto" sonido=""/>
+          <msgFallo name="msgFallo" texto="VUELVE A INTENTARLO"/>
+          <sndFallo name="sndFallo" sonido=""/>
+        </paso3>
+      </actividad>
+    </elemento>
+  </pagina>
+  <pagina locked="0" id="11b"/>
+  <pagina locked="0" id="12">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/Fuentes De Energia/[_2_]fefondo.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="133.4" ancho_px="541" alto="100" ancho="100" rotation="0" posy="35" posx="117" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="pf_tempesta_seven" SIZE="24" COLOR="#0000FF" LETTERSPACING="0" KERNING="1"><B>LAS FUENTES DE ENERGIA Y EL MEDIO AMBIENTE</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento titulo="EL SOL Y SU ENTORNO" flv="galeria/videos/video fe/[_2_]sol.mp4" alto_px="260" ancho_px="240" alto="140.31" ancho="247.09" rotation="0" posy="128" posx="99" tipo="video" src="7"/>
+  </pagina>
+</fundacion>

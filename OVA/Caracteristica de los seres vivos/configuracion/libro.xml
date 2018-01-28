@@ -1,0 +1,51 @@
+<fundacion alto="550" ancho="775" scorm="0">
+  <pagina locked="0" id="1">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="152" ancho_px="250" alto="100" ancho="100" rotation="0" posy="39" posx="478" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="12" COLOR="#0B333C" LETTERSPACING="0" KERNING="1">introduce tu texto aqui ...</FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/Objetos/[_2_]baloncesto.jpg" salto="2" alto_px="231" ancho_px="238" alto="100" ancho="100" rotation="0" posy="215" posx="462" tipo="hipervinculo" src="5"/>
+  </pagina>
+  <pagina locked="0" id="1b"/>
+  <pagina locked="0" id="2">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento actividad="galeria/actividades/sopa.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="-1" posx="-1" tipo="actividad" src="3">
+      <actividad id="3" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto="asdasdasd"/>
+          <instrucciones name="instrucciones"><![CDATA[]]></instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="-1" intentos="-1"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf" palabras="3" filas="17" columnas="17"/>
+          <palabra name="palabra" texto="OSO"/>
+          <palabra name="palabra" texto="GATO"/>
+          <palabra name="palabra" texto="PERRO"/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto=""/>
+          <sndAcierto name="sndAcierto" sonido=""/>
+          <msgFallo name="msgFallo" texto=""/>
+          <sndFallo name="sndFallo" sonido=""/>
+        </paso3>
+      </actividad>
+    </elemento>
+  </pagina>
+  <pagina locked="0" id="2b"/>
+  <pagina locked="0" id="3">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+  </pagina>
+  <pagina locked="0" id="3b"/>
+  <pagina locked="0" id="4">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+  </pagina>
+</fundacion>
