@@ -386,7 +386,7 @@
 				<div class="row">
 					<div class="col-xs-12 col-sm-4">
 						<h4 class="titles text-center">Visitenos en</h4>
-						<p class="text-center">Universidad Francisco De Paula Santander <br>Edificio Aula sur 4to piso</p>
+						<p class="text-center">Universidad Francisco De Paula Santander <br>Edificio Aula norte 4to piso</p>
 					</div>
 					<div class="col-xs-12 col-sm-4">
 						<h4 class="titles text-center">Contactenos</h4>
